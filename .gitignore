@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+data/
+worklog/
+private/
+config.local.json
+.claude/settings.local.json

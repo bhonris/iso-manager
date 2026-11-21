@@ -1,0 +1,21 @@
+{
+  "owner": {
+    "name": "Alex Example",
+    "github": "alex-example",
+    "discord": "alex.example",
+    "aliases": ["tm", "top management"]
+  },
+  "github": {
+    "repo": "your-org/your-isms-repo"
+  },
+  "discord": {
+    "guild": "YOUR_GUILD_ID",
+    "mailbox": { "id": "YOUR_MAILBOX_CHANNEL_ID", "name": "iso-alex" },
+    "channels": {
+      "iso-27001": "YOUR_TEAM_CHANNEL_ID",
+      "pr": "YOUR_PR_CHANNEL_ID"
+    },
+    "defaultChannel": "iso-27001"
+  },
+  "timezone": { "offsetHours": 7, "label": "ICT" }
+}

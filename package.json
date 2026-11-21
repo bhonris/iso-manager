@@ -1,0 +1,15 @@
+{
+  "name": "iso-manager",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Board, mailbox watch and work log for running ISO 27001 items from one Claude Code session",
+  "scripts": {
+    "test": "vitest run",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.8",
+    "vitest": "^2.1.8"
+  }
+}
